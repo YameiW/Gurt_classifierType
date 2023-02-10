@@ -1,5 +1,6 @@
 # Measure words are measurably different from sortal classifiers
-Code and data for GURT/SyntaxFest conference 2023
+Code and data for GURT/SyntaxFest conference 2023.
+
 The main analysis is done in the python notebook.
 
 ## Pickle files description

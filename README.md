@@ -12,6 +12,6 @@ Three python files:
 2. functions used in the analysis,
 3. results of manual validation.
 
-## References:
+## References
 - [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/Chinese)
 - [A Chinese BERT model](https://huggingface.co/bert-base-chinese)

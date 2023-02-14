@@ -13,5 +13,5 @@ Three python files:
 3. results of manual validation.
 
 ## References:
-- [Leipzig Corpora Collection] (https://wortschatz.uni-leipzig.de/en/download/Chinese)
+- [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/Chinese)
 - [A Chinese BERT model](https://huggingface.co/bert-base-chinese)

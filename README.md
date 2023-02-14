@@ -13,11 +13,5 @@ Three python files:
 3. results of manual validation.
 
 ## References:
-- @inproceedings{goldhahn-building-2012,
-  title={Building large monolingual dictionaries at the leipzig corpora collection: From 100 to 200 languages},
-  author={Goldhahn, Dirk and Eckart, Thomas and Quasthoff, Uwe},
-  booktitle={Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC'12)},
-  pages={759--765},
-  year={2012}
-}
+- [Leipzig Corpora Collection] (https://wortschatz.uni-leipzig.de/en/download/Chinese)
 - [A Chinese BERT model](https://huggingface.co/bert-base-chinese)

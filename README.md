@@ -4,7 +4,7 @@ Code and data corresponding to "Measure words are measurably different from clas
 Code available in python notebook.
 
 ## Pickle files description
-There are three .pkl files with extracted nominal phrases, contextual embeddings of classifiers after dimentional reduction, and extracted nouns from all three corpora used in the study. (Leipzig Corpora Collection)
+There are three .pkl files with extracted nominal phrases, contextual embeddings of classifiers after dimentional reduction, and extracted nouns from all three corpora used in the study (Leipzig Corpora Collection).
 
 ## Python files
 Three python files:
